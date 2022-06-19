@@ -1,0 +1,41 @@
+commit c4b318a798bdb1f525423b8f95c616827f462d20
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Sat Jun 18 20:33:50 2022 -0500
+
+    se agrega prueba de HARD
+
+commit 27194107af14a3399fb83d3a8fe04a8298cc7e82
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Sat Jun 11 18:53:23 2022 -0500
+
+    Cambio de vida
+
+commit 19c5360bac47159d7c82c27ccbfca62f661605df
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Sat Jun 11 18:52:20 2022 -0500
+
+    Arrancando mi proyecto real con html y css
+
+commit 9fe1ba27817fc35d84a6e094300014680175c6e9
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Thu Jun 2 22:46:31 2022 -0500
+
+    Agregamos el cardo de la persona
+
+commit 905624dfccd03d71f3e293689e363b49d8ee6a7e
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Thu Jun 2 22:45:31 2022 -0500
+
+    Agregamos un cambio a su estatura
+
+commit 7051f8d1282e3ed433e4bec8505d422db08d9815
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Thu Jun 2 22:25:50 2022 -0500
+
+    cambios al archivo de historia para rehlajar la edad correcta
+
+commit 5b9bb94854aed130cf5134c9bf6c8512ad0e4a47
+Author: Edison Feria <edisonferia4@gmail.com>
+Date:   Thu Jun 2 22:22:53 2022 -0500
+
+    mi primer commit
